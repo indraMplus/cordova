@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "cordova": {
-    "id": "cordova.mplus.pdfviewer",
+    "id": "cordova-mplus-pdfviewer",
     "platforms": [
       "android"
     ]
