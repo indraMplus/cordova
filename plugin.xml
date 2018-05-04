@@ -2,7 +2,7 @@
 <plugin id="cordova.mplus.pdfviewer" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
 <name>PDFViewer</name>
 <js-module name="PDFViewer" src="www/PDFViewer.js">
-<clobbers target="cordova.plugins.PDFViewer" />
+<clobbers target="cordova-plugins-PDFViewer" />
 </js-module>
 
 <platform name="android">
